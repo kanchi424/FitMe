@@ -1,2 +1,3 @@
 # FitMe
-This is a fitness class booking application. I have used FASTAPI web framework for developing the application.There are two tables FitnessClass and booking.
+This is a fitness class booking application. I have used FASTAPI web framework for developing the application. There are two tables FitnessClass and booking.I have added a feature wherein doesn't accept duplicate bookings. Also, when the slots of a particular class are less than or equal to 3 it shows "Hurry, Few slots available".Through this project I have learnt a lot about the backend and using FASTAPI and also tests which needs to be performed before actually deploying an application.
+
